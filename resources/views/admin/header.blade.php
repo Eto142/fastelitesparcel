@@ -649,12 +649,12 @@
                     <span class="nav-text">Change Password</span>
                 </a>
             </div>
-            <div class="nav-item">
+            {{-- <div class="nav-item">
                 <a href="{{ route('admin.settings') }}" class="nav-link">
                     <i class="bi bi-gear nav-icon"></i>
                     <span class="nav-text">Settings</span>
                 </a>
-            </div>
+            </div> --}}
             <div class="nav-item">
                 <a href="{{ url('/') }}" class="nav-link" target="_blank">
                     <i class="bi bi-globe nav-icon"></i>
