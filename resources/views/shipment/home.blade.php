@@ -7,7 +7,7 @@
     <title>Track Your Shipment | fastelitesparcel Company Limited</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="{{ asset('wp-content/uploads/2022/04/Screenshot_20231009_092214-150x150.png') }}" sizes="32x32">
+    <link rel="icon" href="{{ asset('assets/images/logo.svg') }}" sizes="32x32">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -35,10 +35,10 @@
 <link rel='stylesheet' id='elementor-post-112-css' href='wp-content/uploads/elementor/css/post-1121897.css' media='all'/>
 <link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/mn0gvxy4/1y6mf.css" media="all"/>
 <link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/21mkp9c7/1y6mf.css" media="all"/>
-<link rel="icon" href="wp-content/uploads/2022/04/Screenshot_20231009_092214-150x150.png" sizes="32x32"/>
-<link rel="icon" href="wp-content/uploads/2022/04/Screenshot_20231009_092214.png" sizes="192x192"/>
-<link rel="apple-touch-icon" href="wp-content/uploads/2022/04/Screenshot_20231009_092214.png"/>
-<meta name="msapplication-TileImage" content="wp-content/uploads/2022/04/Screenshot_20231009_092214.png"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg"/>
+<link rel="icon" type="image/png" href="/assets/images/logo.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="/assets/images/logo.png"/>
+<meta name="msapplication-TileImage" content="/assets/images/logo.png"/>
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 <style>:root{--wpcargo:#00A924;}</style>
 <style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
