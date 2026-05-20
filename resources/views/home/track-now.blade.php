@@ -4,9 +4,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 <style>
     :root {
-        --brand:       #B01E16;
-        --brand-dark:  #8C1510;
-        --brand-light: #FEF2F1;
+        --brand:       #16A34A;
+        --brand-dark:  #15803D;
+        --brand-light: #F0FDF4;
         --ink:         #0D2E17;
         --muted:       #64748B;
     }
@@ -46,7 +46,7 @@
         position: absolute; inset: 0; z-index: 1;
         background:
             linear-gradient(to bottom, rgba(10,10,22,.30) 0%, rgba(10,10,22,.82) 100%),
-            radial-gradient(ellipse at 75% 0%, rgba(176,30,22,.38) 0%, transparent 55%);
+            radial-gradient(ellipse at 75% 0%, rgba(22,163,74,.38) 0%, transparent 55%);
     }
 
     /* Diagonal bottom cut */
@@ -112,7 +112,7 @@
     }
     .tn-title em {
         font-style: normal;
-        color: #FF7B72;
+        color: #86EFAC;
     }
 
     .tn-sub {
@@ -175,7 +175,7 @@
     }
     .tn-input-wrap:focus-within {
         border-color: var(--brand);
-        box-shadow: 0 0 0 4px rgba(176,30,22,.1);
+        box-shadow: 0 0 0 4px rgba(22,163,74,.1);
         background: #fff;
     }
     .tn-awb {
@@ -229,12 +229,12 @@
         border-radius: 100px;
         background: var(--brand-light);
         color: var(--brand);
-        border: 1px solid rgba(176,30,22,.2);
+        border: 1px solid rgba(22,163,74,.2);
         cursor: pointer;
         transition: background .15s;
         white-space: nowrap;
     }
-    .tn-chip:hover { background: #fdd9d7; }
+    .tn-chip:hover { background: #bbf7d0; }
 
     /* ── STATS STRIP ── */
     .tn-stats {
@@ -312,7 +312,7 @@
     .step-card:hover {
         transform: translateY(-7px);
         box-shadow: 0 16px 48px rgba(0,0,0,.11);
-        border-color: rgba(176,30,22,.15);
+        border-color: rgba(22,163,74,.15);
     }
     .step-card:hover::before { transform: scaleX(1); }
 
