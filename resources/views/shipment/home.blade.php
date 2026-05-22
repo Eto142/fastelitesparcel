@@ -1090,18 +1090,8 @@
         }
     </style>
 </head>
-<!-- Smartsupp Live Chat script -->
-<script type="text/javascript">
-var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'd693c56d0826e792dd82921dbeeb82be13a5c89c';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-})(document);
-</script>
-<noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
+
+<
 
 <body>
 <div class="custom-cursor" id="custom-cursor"></div>
@@ -1120,11 +1110,11 @@ window.smartsupp||(function(d) {
             <div class="topbar-contact">
                 <div class="topbar-contact-item">
                     <i class="fas fa-phone-alt"></i>
-                    <a href="tel:+4906251986620">+49 (0) 6251 986 620</a>
+                    
                 </div>
                 <div class="topbar-contact-item">
                     <i class="fas fa-envelope"></i>
-                    <a href="mailto:support@santashiplogistics.org">support@santashiplogistics.com</a>
+                    <a href="mailto:support@fastelitesparcel.online">support@fastelitesparcel.online</a>
                 </div>
             </div>
         </div>
@@ -1497,7 +1487,7 @@ window.smartsupp||(function(d) {
                             <i class="fas fa-envelope"></i> Contact Support
                         </a>
                         <div class="help-phone">
-                            <i class="fas fa-phone-alt"></i> +49 (0) 6251 986 620
+    
                         </div>
                     </div>
                 </div>
@@ -1535,8 +1525,8 @@ window.smartsupp||(function(d) {
             <div>
                 <div class="footer-col-title"><i class="fas fa-address-card"></i> Contact Us</div>
                 <ul class="footer-links">
-                    <li><a href="mailto:support@santashiplogistics.org"><i class="fas fa-envelope"></i> support@santashiplogistics.com</a></li>
-                    <li><a href="#"><i class="fas fa-map-marker-alt"></i> 720 Grand Blvd, Deer Park, NY 11729, USA</a></li>
+                    <li><a href="mailto:support@fastelitesparcel.online"><i class="fas fa-envelope"></i> support@fastelitesparcel.online</a></li>
+                    {{-- <li><a href="#"><i class="fas fa-map-marker-alt"></i> 720 Grand Blvd, Deer Park, NY 11729, USA</a></li> --}}
                 </ul>
             </div>
             <div>
