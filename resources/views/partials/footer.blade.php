@@ -7,7 +7,7 @@
 <div class="elementor-element elementor-element-1fdb3f43 elementor-invisible elementor-widget elementor-widget-image" data-id="1fdb3f43" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
 <div class="elementor-widget-container"> <img src="{{ asset('assets/images/logo.svg') }}" class="attachment-large size-large" alt="fastelitesparcel" style="max-height:60px;width:auto;"/></div></div><div class="elementor-element elementor-element-2305bf81 elementor-widget elementor-widget-heading" data-id="2305bf81" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">Address: Head Office: Sverres gate 126, Sandefjord<br>We are have offices round the global that is why we are able to ship wordwide</div></div></div><div class="elementor-element elementor-element-46eac7b7 elementor-widget-mobile__width-initial elementor-widget elementor-widget-icon-box" data-id="46eac7b7" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-heading-title elementor-size-default"><br>We are have offices round the global that is why we are able to ship wordwide</div></div></div><div class="elementor-element elementor-element-46eac7b7 elementor-widget-mobile__width-initial elementor-widget elementor-widget-icon-box" data-id="46eac7b7" data-element_type="widget" data-widget_type="icon-box.default">
 <div class="elementor-widget-container">
 		<div class="elementor-icon-box-wrapper">
 <div class="elementor-icon-box-content">
